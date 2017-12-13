@@ -1,2 +1,2 @@
 # hello-world
-Practice project to about Github
+Practice project to learn about Github
